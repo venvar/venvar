@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venvar
+- 👋 Hi, I’m @Sri Varsha Chitturi
 - 👀 I’m interested in webdevelopment,python,datascience
 - 🌱 I’m currently learning javascript,tableau,python
 - 💞️ I’m looking to collaborate on webdevelopment projects
